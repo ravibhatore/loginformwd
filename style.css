@@ -1,0 +1,35 @@
+.f
+{
+
+   margin-left: 34%;
+    height: 400px;
+    width: 380px;
+    padding: 50px;
+    background-color: #fff;
+    margin-top: 70px;
+}
+body{
+    background-size: cover;
+}
+.l1{
+    margin-top: 22px;
+    margin-bottom: 22px;
+
+}
+
+input{
+    width: 80%;
+    padding: 8px;
+}
+button{
+    margin-top: 33px;
+    padding: 7px 135px;
+    background-image: url("https://img.freepik.com/free-vector/blue-diagonal-geometric-stripe-background_1409-1237.jpg");
+}
+.new{
+    margin-top: 20px;
+    margin-left: 17px;
+}
+h1{
+    margin-left: 30px;
+}
